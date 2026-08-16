@@ -1,0 +1,10 @@
+{
+  "name": "hello-world",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "dev-server",
+      "command": "npm run dev"
+    }
+  ]
+}
